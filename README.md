@@ -7,8 +7,7 @@
 - 🎓 [Academic Page in English](https://dr-majie.github.io/)
 - 🎓 [中文学术主页](https://gr.xjtu.edu.cn/web/jiema)
 - 😄 [Open Source Project](https://github.com/reml-group)
-
-[![GitHub Stats](https://github-stats-majie.vercel.app/api?username=dr-majie&show_icons=true&count_private=true&include_all_commits=true&theme=city_lights)](https://github.com/dr-majie)
+- 
 ## 💼 GitHub 数据
 
 <div align="center">
