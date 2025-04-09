@@ -9,6 +9,13 @@
 - 😄 [Open Source Project](https://github.com/reml-group)
 
 [![GitHub Stats](https://github-stats-majie.vercel.app/api?username=dr-majie&show_icons=true&count_private=true&include_all_commits=true&theme=city_lights)](https://github.com/dr-majie)
+## 💼 GitHub 数据
+
+<div align="center">
+  <img src="https://github-stats-majie.vercel.app/api?username=dr-majie&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" width="450"/>
+  <br/>
+  <img src="https://github-stats-majie.vercel.app/api/top-langs/?username=dr-majie&layout=compact&theme=tokyonight" width="320"/>
+</div>
 
 <!--
 **dr-majie/dr-majie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
