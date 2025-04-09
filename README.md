@@ -8,7 +8,7 @@
 - 🎓 [中文学术主页](https://gr.xjtu.edu.cn/web/jiema)
 - 😄 [Open Source Project](https://github.com/reml-group)
 
-[![我的 GitHub 数据](github-readme-stats-bsr9704rc-dr-majies-projects.vercel.app/api?username=dr-majie&show_icons=true&count_private=true&include_all_commits=true&theme=city_lights)](https://github.com/dr-majie)
+[![我的 GitHub 数据](https://github-readme-stats-bsr9704rc-dr-majies-projects.vercel.app/api?username=dr-majie&show_icons=true&count_private=true&include_all_commits=true&theme=city_lights)](https://github.com/dr-majie)
 
 <!--
 **dr-majie/dr-majie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
