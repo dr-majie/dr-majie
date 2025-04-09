@@ -10,11 +10,10 @@
 - 
 ## 💼 GitHub 数据
 
-<div align="center">
-  <img src="https://github-stats-majie.vercel.app/api?username=dr-majie&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" width="450"/>
-  <br/>
-  <img src="https://github-stats-majie.vercel.app/api/top-langs/?username=dr-majie&layout=compact&theme=tokyonight" width="320"/>
-</div>
+<p align="center">
+  <img src="https://github-stats-majie.vercel.app/api?username=dr-majie&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" width="47%" />
+  <img src="https://github-stats-majie.vercel.app/api/top-langs/?username=dr-majie&layout=compact&theme=tokyonight" width="47%" />
+</p>
 
 <!--
 **dr-majie/dr-majie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
