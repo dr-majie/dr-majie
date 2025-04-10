@@ -11,9 +11,9 @@
 ## 💼 GitHub 数据
 
 <div align="center">
-  <img src="https://github-stats-majie.vercel.app/api?username=dr-majie&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" width="500" />
+  <img src="https://github-stats-majie.vercel.app/api?username=dr-majie&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" width="400" />
   <br />
-  <img src="https://github-stats-majie.vercel.app/api/top-langs/?username=dr-majie&layout=compact&theme=tokyonight" width="500" />
+  <img src="https://github-stats-majie.vercel.app/api/top-langs/?username=dr-majie&layout=compact&theme=tokyonight" width="400" />
 </div>
 
 
